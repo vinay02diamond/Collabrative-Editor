@@ -120,4 +120,4 @@ This Real-Time Collaboration Tool is a robust and scalable project leveraging Re
 #Output
 ![Image](https://github.com/user-attachments/assets/c88e41d9-9f07-4fc4-bb0f-f4cd01111081)
 
-![Image](https://github.com/user-attachments/assets/c919abe9-2f70-4ac2-bc33-e874f56e02ab)
+![Image](https://github.com/user-attachments/assets/393b4fbd-5e96-428e-a645-28cd1ddfa50d)
